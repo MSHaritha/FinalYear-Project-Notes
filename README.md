@@ -1,4 +1,4 @@
-# FinalYearProject React-Notes
+# FinalYearProject React-Notes 🚀
 
 
 ## Q: Difference between a `Library and Framework`?
